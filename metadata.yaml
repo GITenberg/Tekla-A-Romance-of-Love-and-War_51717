@@ -1,0 +1,25 @@
+_repo: Tekla-A-Romance-of-Love-and-War_51717
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barr, Robert
+    birthdate: 1850
+    deathdate: 1912
+    gutenberg_agent_id: '1616'
+    url: http://www.gutenberg.org/2009/agents/1616
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Barr_%28writer%29
+description: ''
+gutenberg_issued: '2016-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51717'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+- GITenberg
+title: 'Tekla: A Romance of Love and War'
+url: http://www.gutenberg.org/ebooks/51717
